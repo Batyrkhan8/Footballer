@@ -1,0 +1,33 @@
+body {
+  background-color: #75aadb;
+  line: height 1.5em;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 26px;
+  background-color: gold;
+  padding: 20px;
+}
+
+.accent {
+  color: gold;
+}
+
+table,
+th,
+td {
+  border: 2px solid gold;
+}
+
+.logo {
+  width: 300px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
